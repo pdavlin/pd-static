@@ -29,11 +29,11 @@ layout: layouts/base.njk
 #### Graduated 2017
 
 ## Citizen
-### Omaha Mayor's Millenial Advisory Committee
-#### 2020 - Present
+<!-- ### Omaha Mayor's Millenial Advisory Committee
+#### 2020 - Present -->
 
 ### Elizabeth O'Connor for NU Board of Regents
-#### Campaign volunteer
+#### Campaign team member
 - Coordinated election security procedures for campaign emails.
 - Produced campaign videos for sharing on social media.
 - Conducted detailed research into agricultural, food, and water initiatives critical to the University and the state of Nebraska.
