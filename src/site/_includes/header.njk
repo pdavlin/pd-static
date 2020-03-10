@@ -8,5 +8,8 @@
     </li>
   </ul>
   <h1>{{ title }}</h1>
+  {%- if profile %}<div class="subtitle-container-with-pic"><img class="profile" src="../images/profile.jpeg" /> {% endif %}
   {%- if subtitle %}<p class="subtitle">{{ subtitle | safe }}</p>{% endif %}
+  {%- if profile %}</div>{% endif %}
+
 </header>

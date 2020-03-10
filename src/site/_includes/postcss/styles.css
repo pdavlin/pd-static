@@ -79,7 +79,7 @@ p {
 .subtitle {
   font-size: 1.2em;
   margin-top: 1em;
-  margin-bottom: 5em;
+  /* margin-bottom: 5em; */
 }
 
 ul, ol {
@@ -199,4 +199,19 @@ footer {
     color: $text-color;
     border-bottom: solid 1px $text-color;
   }
+}
+.profile {
+  height: 100px !important;
+  width: 100px !important;
+  border-radius: 50%;
+}
+
+.subtitle-container-with-pic {
+  display: flex;
+  align-items: center;
+}
+
+.subtitle-container-with-pic > .subtitle {
+  margin: 0px 0px 0px 1em;
+  flex-basis: 80%;
 }
